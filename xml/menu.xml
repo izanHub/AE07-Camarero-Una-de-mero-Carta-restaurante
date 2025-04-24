@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <plato tipo="entrante">
+    <nombre>Ensalada César</nombre>
+    <descripcion calorias="320">Lechuga fresca con pollo a la parrilla, crutones y salsa César.</descripcion>
+    <precio>7.50</precio>
+    <caracteristicas>
+      <item>carne</item>
+      <item>lacteo</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Gazpacho andaluz</nombre>
+    <descripcion calorias="150">Sopa fría de tomate, pimiento y pepino.</descripcion>
+    <precio>5.00</precio>
+    <caracteristicas>
+      <item>vegano</item>
+      <item>sin gluten</item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="entrante">
+    <nombre>Crema de calabaza</nombre>
+    <descripcion calorias="210">Crema suave de calabaza con toque de jengibre.</descripcion>
+    <precio>4.80</precio>
+    <caracteristicas>
+      <item>vegano</item>
+      <item>sin gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Patatas bravas</nombre>
+    <descripcion calorias="350">Patatas fritas con salsa picante casera.</descripcion>
+    <precio>4.20</precio>
+    <caracteristicas>
+      <item>vegetariano</item>
+      <item>picante</item>
+    </caracteristicas>
+  </plato>
+
+  <plato tipo="entrante">
+    <nombre>Rollitos de primavera</nombre>
+    <descripcion calorias="310">Crujientes rollitos rellenos de verduras.</descripcion>
+    <precio>3.80</precio>
+    <caracteristicas>
+      <item>vegetariano</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="principal">
+    <nombre>Paella de mariscos</nombre>
+    <descripcion calorias="560">Arroz con calamares, mejillones y gambas.</descripcion>
+    <precio>14.00</precio>
+    <caracteristicas>
+      <item>marisco</item>
+      <item>sin gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="principal">
+    <nombre>Hamburguesa completa</nombre>
+    <descripcion calorias="780">Hamburguesa de ternera con queso, lechuga, tomate y pan brioche.</descripcion>
+    <precio>9.90</precio>
+    <caracteristicas>
+      <item>carne</item>
+      <item>lacteo</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="principal">
+    <nombre>Raviolis de espinaca y ricotta</nombre>
+    <descripcion calorias="540">Pasta rellena con salsa de tomate casera.</descripcion>
+    <precio>10.50</precio>
+    <caracteristicas>
+      <item>vegetariano</item>
+      <item>lacteo</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Tarta de queso</nombre>
+    <descripcion calorias="410">Tarta cremosa con base de galleta y mermelada de frutos rojos.</descripcion>
+    <precio>4.50</precio>
+    <caracteristicas>
+      <item>lacteo</item>
+      <item>vegetariano</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Helado artesanal</nombre>
+    <descripcion calorias="280">Helado de vainilla hecho con leche natural.</descripcion>
+    <precio>3.50</precio>
+    <caracteristicas>
+      <item>lacteo</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Zumo natural de naranja</nombre>
+    <descripcion calorias="90">Zumo exprimido 100% natural.</descripcion>
+    <precio>2.50</precio>
+    <caracteristicas>
+      <item>vegano</item>
+      <item>sin gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Café con leche</nombre>
+    <descripcion calorias="120">Café expreso con leche caliente.</descripcion>
+    <precio>1.80</precio>
+    <caracteristicas>
+      <item>lacteo</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Bruschetta de tomate</nombre>
+    <descripcion calorias="220">Pan tostado con tomate, ajo y albahaca.</descripcion>
+    <precio>4.00</precio>
+    <caracteristicas>
+      <item>vegano</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="principal">
+    <nombre>Pollo al curry</nombre>
+    <descripcion calorias="540">Pollo en salsa de curry con arroz basmati.</descripcion>
+    <precio>11.50</precio>
+    <caracteristicas>
+      <item>carne</item>
+      <item>picante</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Fruta fresca</nombre>
+    <descripcion calorias="100">Selección de fruta de temporada.</descripcion>
+    <precio>3.00</precio>
+    <caracteristicas>
+      <item>vegano</item>
+      <item>sin gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Agua mineral</nombre>
+    <descripcion calorias="0">Botella de agua de manantial.</descripcion>
+    <precio>1.20</precio>
+    <caracteristicas>
+      <item>vegano</item>
+      <item>sin gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="principal">
+    <nombre>Pizza Margarita</nombre>
+    <descripcion calorias="680">Pizza con tomate, mozzarella y albahaca.</descripcion>
+    <precio>8.50</precio>
+    <caracteristicas>
+      <item>vegetariano</item>
+      <item>lacteo</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Tabla de quesos</nombre>
+    <descripcion calorias="430">Selección de quesos artesanales.</descripcion>
+    <precio>6.50</precio>
+    <caracteristicas>
+      <item>lacteo</item>
+      <item>vegetariano</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="principal">
+    <nombre>Lasaña de verduras</nombre>
+    <descripcion calorias="620">Lasaña con berenjena, calabacín y salsa bechamel.</descripcion>
+    <precio>9.00</precio>
+    <caracteristicas>
+      <item>vegetariano</item>
+      <item>lacteo</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="principal">
+    <nombre>Costillas BBQ</nombre>
+    <descripcion calorias="850">Costillas de cerdo con salsa barbacoa.</descripcion>
+    <precio>13.00</precio>
+    <caracteristicas>
+      <item>carne</item>
+      <item>picante</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Mousse de chocolate</nombre>
+    <descripcion calorias="390">Mousse suave de chocolate negro.</descripcion>
+    <precio>4.20</precio>
+    <caracteristicas>
+      <item>lacteo</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Té verde</nombre>
+    <descripcion calorias="2">Infusión de té verde natural.</descripcion>
+    <precio>1.50</precio>
+    <caracteristicas>
+      <item>vegano</item>
+      <item>sin gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="principal">
+    <nombre>Tofu salteado</nombre>
+    <descripcion calorias="460">Tofu con verduras al wok y salsa de soja.</descripcion>
+    <precio>10.00</precio>
+    <caracteristicas>
+      <item>vegano</item>
+      <item>sin gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Crema de calabaza</nombre>
+    <descripcion calorias="210">Crema suave de calabaza con toque de jengibre.</descripcion>
+    <precio>4.80</precio>
+    <caracteristicas>
+      <item>vegano</item>
+      <item>sin gluten</item>
+    </caracteristicas>
+  </plato>
+</menu>

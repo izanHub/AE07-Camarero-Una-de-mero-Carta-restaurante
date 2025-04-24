@@ -1,0 +1,84 @@
+/* style.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #800020; /* Fondo granate */
+    color: #f7f7f7; /* Texto claro */
+}
+
+.hero {
+    background: url('portada.jpg') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.4);
+}
+
+.hero h1 {
+    font-size: 3em;
+    margin: 0;
+    color: #f7f7f7; /* Texto blanco */
+}
+
+.hero p {
+    font-size: 1.5em;
+    margin-top: 10px;
+    color: #f7f7f7; /* Texto blanco */
+}
+
+.menu-section {
+    padding: 60px 20px;
+    text-align: center;
+    background: #800020; /* Fondo granate */
+}
+
+.menu-section h2 {
+    font-size: 2.5em;
+    margin-bottom: 40px;
+    color: #f7f7f7; /* Texto blanco */
+}
+
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 30px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.plato-card {
+    background: #f7f7f7; /* Fondo blanco */
+    color: #333; /* Texto oscuro */
+    padding: 20px;
+    border-radius: 12px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.plato-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.plato-card h4 {
+    margin-top: 0;
+    color: #800020; /* Títulos granate */
+}
+
+.plato-card .tipo {
+    font-style: italic;
+    color: #7f8c8d;
+}
+
+.plato-card .descripcion {
+    margin: 10px 0;
+    color: #555; /* Texto gris */
+}
+
+.plato-card .calorias,
+.plato-card .precio {
+    font-weight: bold;
+    color: #800020; /* Texto granate */
+}
